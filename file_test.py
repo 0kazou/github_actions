@@ -1,4 +1,4 @@
-#import pytest
+# import pytest
 
 
 # Fonction test du résultat de 2+4
@@ -23,4 +23,4 @@ def test_calc_multiply():
 def test_coucou():
     output = 'hello'
     assert output == 'hello'
-    
+
